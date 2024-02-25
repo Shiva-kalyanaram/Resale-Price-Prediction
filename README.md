@@ -1,4 +1,6 @@
-# Rental Price Prediction Project
+# Smart Predictive Modeling for Rental
+
+Property Prices
 
 ## Overview
 
